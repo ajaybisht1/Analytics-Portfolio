@@ -46,8 +46,8 @@ Dashboard has 7 worksheets
 
  <img width="823" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/209c8026-e4bf-4636-9c63-972e0a5fa77d">
 
-- This worksheet is linked to access database and works as a source for upcoming worksheets. On just a single refresh it gets updated to the current
-- Column A to G are retrieving from database and column H to N are manually added which have formulas such as Vlookup, IF error, Today these columns are useful to create next few worksheets.
+- This worksheet is linked to access database and works as a data source for the worosheet 5 & worksheet 6. On just a single refresh it gets updated to the current
+- Column A to G are retrieving from database and column H to N are manually added which formulas (Vlookup, IF error, Today) and these columns are useful to create next few worksheets.
 
 #### Worksheet 5 (Pending Activity 3 Ageing)
 
