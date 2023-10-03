@@ -25,9 +25,11 @@
 
 <br>
 
-Dashboard has 7 worksheets
+### Dashboard has 7 worksheets
 #### Worksheet 1 (How to use) - This worksheet just explains how this dashboard needs to be prepared for daily use
 #### Worksheet 2 (Pending Activity 1)
+<br>
+
 
    <img width="652" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/6d790239-139c-4ec5-822d-78f55b9b995a">
 
@@ -36,6 +38,8 @@ Dashboard has 7 worksheets
 - In column N we have used Vlookup to fetch name of analyst who is responsible for completing that activity.
 
 #### Worksheet 3 (Pending Activity 2)
+<br>
+
 
 <img width="523" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/fb36d929-b588-40b6-9d87-ea7b548f7405">
 
@@ -43,6 +47,8 @@ Dashboard has 7 worksheets
 - In above image there are 23 pending activities but we do not know which analyst needs to do that. To know that you have to enter store number in cell "J5". As soon as you do that cell "J6" will return the name of analyst who is responsible for working on that store. This feature was very useful during daily meetings when our team lead wanted to know which analyst is leaving their work pending
 
  #### Worksheet 4 (Database_query_name)
+ <br>
+ 
 
  <img width="823" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/209c8026-e4bf-4636-9c63-972e0a5fa77d">
 
@@ -50,6 +56,8 @@ Dashboard has 7 worksheets
 - Column A to G are retrieving from database and column H to N are manually added with formulas (Vlookup, IF error, Today) and these columns are useful to create next few worksheets.
 
 #### Worksheet 5 (Pending Activity 3 Ageing)
+<br>
+
 
 <img width="782" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/12a8a861-88cb-4fb7-8e17-e69fa334b6d7">
 
@@ -59,15 +67,19 @@ Dashboard has 7 worksheets
 
 #### Worksheet 6 (Processed Activity 3)
 
+<br>
+
 <img width="835" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/9fc79cad-c7d8-4024-93b3-ce762b8954f1">
 
-- This worksheet is different from rest of the worksheets. It is not showing pending work but it is showing the completed numbers of activity 3 for previous 2 days.
+- This worksheet is different from rest of the worksheets. It is not showing pending work but it is showing the completed numbers of activity 3 in previous 2 days.
 - Purpose of this worksheet was to monitor the amount of work that was processed in last two days.
 - This worksheets is also using Worksheet 4 (Database_query_name) as source
 
 #### Worksheet 7 (Site Allocation)
+<br>
+
 
 <img width="564" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/49bf1e21-0a55-4f9a-ac81-aefe3b6781e8">
 
-- This worksheet is showing how sites are allocated to analysts
+- This worksheet is showing how sites are allocated among analysts
 - Worksheet 2 and Worksheet 3 were using this worksheet with vlookup to find the analyst names
