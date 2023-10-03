@@ -1,3 +1,7 @@
+![image](https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/2e1c0861-43e3-4ae6-99c3-99b319859ee0)
+
+
+<br>
 <br>
 
 ### What is work status dashboard?
