@@ -40,14 +40,14 @@ Dashboard has 7 worksheets
 <img width="523" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/fb36d929-b588-40b6-9d87-ea7b548f7405">
 
 - This worksheet shows pendency of work in activity 2
-- In above image there are 23 pending activities but we do not know which analyst needs to do that. To know that you have to enter store number in cell "J5". As soon as you do that cell "J6" will return the name of analyst who is responsible for working on that store. This feature was very useful during daily meetings when team leads quickly wanted to know which analyst is leaving work pending
+- In above image there are 23 pending activities but we do not know which analyst needs to do that. To know that you have to enter store number in cell "J5". As soon as you do that cell "J6" will return the name of analyst who is responsible for working on that store. This feature was very useful during daily meetings when our team lead wanted to know which analyst is leaving their work pending
 
  #### Worksheet 4 (Database_query_name)
 
  <img width="823" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/209c8026-e4bf-4636-9c63-972e0a5fa77d">
 
 - This worksheet is linked to access database and works as a source for upcoming worksheets. On just a single refresh it gets updated to the current
-- Column A to G are retrieving from database and column H to N are manually added which have formulas such as Vlookup, IF error, Today these columns are useful to created next few worksheets.
+- Column A to G are retrieving from database and column H to N are manually added which have formulas such as Vlookup, IF error, Today these columns are useful to create next few worksheets.
 
 #### Worksheet 5 (Pending Activity 3 Ageing)
 
