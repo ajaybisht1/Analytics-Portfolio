@@ -3,7 +3,7 @@
 ### What is work status dashboard?
 - This is an automated dashboard which was created by me to keep track of daily work status within my team
 
-### What purpose does it server?
+### What purpose does it serve?
 - This is a combined dashboard which replaced multiple individual dashboards that were being shared on daily basis within the team
 - All the activities listed in multiple sheets within this dashboard are discussed in daily team call and this dashboard displays both work completed and work pending status.
 
