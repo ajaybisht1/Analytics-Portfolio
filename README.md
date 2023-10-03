@@ -58,5 +58,17 @@ Dashboard has 7 worksheets
 - This is really helpful for quickly glancing over the pendency status
 - The data source for this worksheet is coming from Worksheet 4 (Database_query_name) which is a replica of data base so we can say this pendency is coming directly from database.
 
-#### Worksheet 6 (Pending Activity 3 Ageing)
+#### Worksheet 6 (Processed Activity 3)
 
+<img width="835" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/9fc79cad-c7d8-4024-93b3-ce762b8954f1">
+
+- This worksheet is different from rest of the worksheets. It is not showing pending work but it is showing the completed numbers of activity 3 for previous 2 days.
+- Purpose of this worksheet was to monitor the amount of work that was processed in last two days.
+- This worksheets is also using Worksheet 4 (Database_query_name) as source
+
+#### Worksheet 7 (Site Allocation)
+
+<img width="564" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/49bf1e21-0a55-4f9a-ac81-aefe3b6781e8">
+
+- This worksheet is showing how sites are allocated to analysts
+- Worksheet 2 and Worksheet 3 were using this worksheet with vlookup to find the analyst names
