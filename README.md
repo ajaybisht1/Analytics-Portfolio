@@ -37,6 +37,9 @@
 - We have used Macro to create two buttons "Clear" & "Refresh" that help in clearing old data and refreshing pivot with new data once loaded
 - In column N we have used Vlookup to fetch name of analyst who is responsible for completing that activity.
 
+<br>
+<br>
+
 #### Worksheet 3 (Pending Activity 2)
 <br>
 
@@ -46,6 +49,9 @@
 - This worksheet shows pendency of work in activity 2
 - In above image there are 23 pending activities but we do not know which analyst needs to do that. To know that you have to enter store number in cell "J5". As soon as you do that cell "J6" will return the name of analyst who is responsible for working on that store. This feature was very useful during daily meetings when our team lead wanted to know which analyst is leaving their work pending
 
+<br>
+<br>
+
  #### Worksheet 4 (Database_query_name)
  <br>
  
@@ -54,6 +60,9 @@
 
 - This worksheet is linked to access database and works as a data source for the worksheet 5 & worksheet 6. On just a single refresh it gets updated to the current
 - Column A to G are retrieving from database and column H to N are manually added with formulas (Vlookup, IF error, Today) and these columns are useful to create next few worksheets.
+
+<br>
+<br>
 
 #### Worksheet 5 (Pending Activity 3 Ageing)
 <br>
@@ -65,6 +74,9 @@
 - This is really helpful for quickly glancing over the pendency status
 - The data source for this worksheet is coming from Worksheet 4 (Database_query_name) which is a replica of data base so we can say this pendency is coming directly from database.
 
+<br>
+<br>
+
 #### Worksheet 6 (Processed Activity 3)
 
 <br>
@@ -74,6 +86,9 @@
 - This worksheet is different from rest of the worksheets. It is not showing pending work but it is showing the completed numbers of activity 3 in previous 2 days.
 - Purpose of this worksheet was to monitor the amount of work that was processed in last two days.
 - This worksheets is also using Worksheet 4 (Database_query_name) as source
+
+<br>
+<br>
 
 #### Worksheet 7 (Site Allocation)
 <br>
