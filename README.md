@@ -1,4 +1,3 @@
-<img width="782" alt="image" src="https://github.com/ajaybisht1/Excel_Dashboard/assets/146637154/eab475f1-4e57-42f8-8fe1-c750cf78e20a"># Work Status Dashboard
 <br>
 
 ### What is work status dashboard?
